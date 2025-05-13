@@ -87,14 +87,14 @@ body{
     background-color: darkgreen;
 }
 .edit{
-    background-color: #df5b3f;
+    background-color:lightblue;
     color: #fff;
     border: none;
     padding: 5px 10px;
     cursor: pointer;
 }
 .edit:hover{
-    background: maroon;
+    background: blue;
 }
 
 #movie-list ul li .name,
